@@ -23,7 +23,7 @@ namespace SocialNetwork.Controllers
         [HttpGet]
         public IActionResult Register()
         {
-            return View("Home/Register");
+            return View("Register/Register");
         }
 
         [Route("RegisterPart2")]
@@ -38,13 +38,13 @@ namespace SocialNetwork.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = _mapper.Map<User>(model);
+                var user = _mapper.Map<RegisterViewModel, User>(model);
 
                 var result = await _userManager.CreateAsync(user, model.PasswordReg);
                 if (result.Succeeded)
                 {
                     await _signInManager.SignInAsync(user, false);
-                    return RedirectToAction("Index", "Home");
+                    return RedirectToAction("Index", "Register");
                 }
                 else
                 {

@@ -75,3 +75,4 @@ D:\SkillFactory\Module35\Module35\SocialNetwork\bin\Debug\net8.0\runtimes\win\li
 D:\SkillFactory\Module35\Module35\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\SkillFactory\Module35\Module35\SocialNetwork\obj\Debug\net8.0\SocialNetwork.csproj.AssemblyReference.cache
 D:\SkillFactory\Module35\Module35\SocialNetwork\obj\Debug\net8.0\SocialNe.364C5A64.Up2Date
+D:\SkillFactory\Module35\Module35\SocialNetwork\bin\Debug\net8.0\AutoMapper.dll
