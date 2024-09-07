@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SocialNetwork.Models;
+using System.Reflection;
 
 namespace SocialNetwork
 {
@@ -24,9 +25,17 @@ namespace SocialNetwork
                 opts.Password.RequireLowercase = false;
                 opts.Password.RequireUppercase = false;
                 opts.Password.RequireDigit = false;
+            
             }).AddEntityFrameworkStores<ApplicationDbContext>();
 
+
+            var assembly = Assembly.GetAssembly(typeof(MappingProfile));
+            builder.Services.AddAutoMapper(assembly);
+
+
             var app = builder.Build();
+
+
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
