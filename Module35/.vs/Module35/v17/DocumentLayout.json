@@ -11,6 +11,18 @@
       "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\wwwroot\\css\\main-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\tyrik\\source\\repos\\module35\\module35\\socialnetwork\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\tyrik\\source\\repos\\module35\\module35\\socialnetwork\\views\\shared\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\views\\shared\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\tyrik\\source\\repos\\module35\\module35\\socialnetwork\\views\\register\\registerpart2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\views\\register\\registerpart2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\tyrik\\source\\repos\\module35\\module35\\socialnetwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,6 +69,49 @@
               "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterPart2.cshtml",
+              "DocumentMoniker": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\Views\\Register\\RegisterPart2.cshtml",
+              "RelativeDocumentMoniker": "SocialNetwork\\Views\\Register\\RegisterPart2.cshtml",
+              "ToolTip": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\Views\\Register\\RegisterPart2.cshtml",
+              "RelativeToolTip": "SocialNetwork\\Views\\Register\\RegisterPart2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T15:25:17.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\Views\\Shared\\Register.cshtml",
+              "RelativeDocumentMoniker": "SocialNetwork\\Views\\Shared\\Register.cshtml",
+              "ToolTip": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\Views\\Shared\\Register.cshtml",
+              "RelativeToolTip": "SocialNetwork\\Views\\Shared\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T15:25:12.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SocialNetwork\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SocialNetwork\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T15:24:42.378Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
@@ -64,7 +119,7 @@
               "RelativeDocumentMoniker": "SocialNetwork\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\Views\\Shared\\_Layout.cshtml*",
               "RelativeToolTip": "SocialNetwork\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-07T15:10:11.865Z",
               "EditorCaption": ""
@@ -75,16 +130,16 @@
               "Title": "main-page.css",
               "DocumentMoniker": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\wwwroot\\css\\main-page.css",
               "RelativeDocumentMoniker": "SocialNetwork\\wwwroot\\css\\main-page.css",
-              "ToolTip": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\wwwroot\\css\\main-page.css*",
-              "RelativeToolTip": "SocialNetwork\\wwwroot\\css\\main-page.css*",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAADIAAAAAAAAA",
+              "ToolTip": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\wwwroot\\css\\main-page.css",
+              "RelativeToolTip": "SocialNetwork\\wwwroot\\css\\main-page.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-09-07T15:09:45.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\appsettings.json",
               "RelativeDocumentMoniker": "SocialNetwork\\appsettings.json",
@@ -97,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\appsettings.Development.json",
               "RelativeDocumentMoniker": "SocialNetwork\\appsettings.Development.json",
@@ -109,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\Models\\User.cs",
               "RelativeDocumentMoniker": "SocialNetwork\\Models\\User.cs",
@@ -121,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\Program.cs",
               "RelativeDocumentMoniker": "SocialNetwork\\Program.cs",
