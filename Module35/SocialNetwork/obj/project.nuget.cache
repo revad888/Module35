@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "n7CU++ZtdHo=",
+  "dgSpecHash": "dbdoG4ww1jw=",
   "success": true,
   "projectFilePath": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\SocialNetwork.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\revad.LAPTOP-GFS75M26\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\revad.LAPTOP-GFS75M26\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\revad.LAPTOP-GFS75M26\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\revad.LAPTOP-GFS75M26\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.8\\microsoft.aspnetcore.cryptography.internal.8.0.8.nupkg.sha512",

@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\SkillFactory\\Module35\\Module35\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\controllers\\accountmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\accountmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,6 +71,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "SocialNetwork\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:36:41.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountManagerController.cs",
+              "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Controllers\\AccountManagerController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Controllers\\AccountManagerController.cs",
+              "ToolTip": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Controllers\\AccountManagerController.cs",
+              "RelativeToolTip": "SocialNetwork\\Controllers\\AccountManagerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:35:54.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "SocialNetwork\\Repository\\IRepository.cs",
@@ -75,13 +109,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Repository\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "SocialNetwork\\Repository\\IUnitOfWork.cs",
               "ToolTip": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Repository\\IUnitOfWork.cs",
               "RelativeToolTip": "SocialNetwork\\Repository\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T12:23:48.614Z",
               "EditorCaption": ""
@@ -98,14 +132,14 @@
               "RelativeDocumentMoniker": "SocialNetwork\\Controllers\\RegisterController.cs",
               "ToolTip": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Controllers\\RegisterController.cs",
               "RelativeToolTip": "SocialNetwork\\Controllers\\RegisterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T11:19:06.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "SocialNetwork\\ViewModels\\RegisterViewModel.cs",
@@ -122,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "SocialNetwork",
               "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\SocialNetwork.csproj",
               "RelativeDocumentMoniker": "SocialNetwork\\SocialNetwork.csproj",
@@ -135,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "SocialNetwork\\ApplicationDbContext.cs",
@@ -148,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Models\\User.cs",
               "RelativeDocumentMoniker": "SocialNetwork\\Models\\User.cs",
@@ -161,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SocialNetwork\\Properties\\launchSettings.json",
@@ -174,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\appsettings.json",
               "RelativeDocumentMoniker": "SocialNetwork\\appsettings.json",
@@ -187,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\appsettings.Development.json",
               "RelativeDocumentMoniker": "SocialNetwork\\appsettings.Development.json",
@@ -200,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Program.cs",
               "RelativeDocumentMoniker": "SocialNetwork\\Program.cs",
