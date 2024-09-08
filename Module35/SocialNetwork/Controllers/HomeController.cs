@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using SocialNetwork.Models;
 using System.Diagnostics;
+using SocialNetwork.ViewModels;
 
 namespace SocialNetwork.Controllers
 {
@@ -15,7 +16,7 @@ namespace SocialNetwork.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View(new MainViewModel());
         }
 
         public IActionResult Privacy()

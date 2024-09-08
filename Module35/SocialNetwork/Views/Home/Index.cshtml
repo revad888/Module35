@@ -1,6 +1,9 @@
-﻿@{
+﻿@model SocialNetwork.ViewModels.MainViewModel
+
+@{
     ViewData["Title"] = "Главная";
 }
+
 
 <div class="row">
     <div class="side">
@@ -11,8 +14,8 @@
     </div>
 
     <div class="main">
-        @await Html.PartialAsync("~/Views/Shared/Login.cshtml")
-        @await Html.PartialAsync("~/Views/Register/Register.cshtml")
+        <partial name="Login" model="Model.LoginView" />
+        <partial name="Register" model="Model.RegisterView" />
         </div>
 
 </div>

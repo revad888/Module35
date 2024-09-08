@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\SocialNetwork.csproj": {}
+    "C:\\Users\\tyrik\\Source\\Repos\\Module35\\Module35\\SocialNetwork\\SocialNetwork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\SocialNetwork.csproj": {
+    "C:\\Users\\tyrik\\Source\\Repos\\Module35\\Module35\\SocialNetwork\\SocialNetwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\SocialNetwork.csproj",
+        "projectUniqueName": "C:\\Users\\tyrik\\Source\\Repos\\Module35\\Module35\\SocialNetwork\\SocialNetwork.csproj",
         "projectName": "SocialNetwork",
-        "projectPath": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\SocialNetwork.csproj",
+        "projectPath": "C:\\Users\\tyrik\\Source\\Repos\\Module35\\Module35\\SocialNetwork\\SocialNetwork.csproj",
         "packagesPath": "C:\\Users\\tyrik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\obj\\",
+        "outputPath": "C:\\Users\\tyrik\\Source\\Repos\\Module35\\Module35\\SocialNetwork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
