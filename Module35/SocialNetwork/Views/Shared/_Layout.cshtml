@@ -22,7 +22,11 @@
 
                 @if (SignInManager.IsSignedIn(User))
                 {
-                    <a asp-area="" asp-controller="AccountManager" asp-action="Logout">Выход</a>
+                    <a class="bth" asp-area="" asp-controller="AccountManager" asp-action="Logout">Выход</a>
+                }
+                else
+                {
+                    <a class="btn" asp-area="" asp-controller="Account" asp-action="Login">Вход</a>
                 }
 
                 <partial name="_ValidationScriptsPartial" />
