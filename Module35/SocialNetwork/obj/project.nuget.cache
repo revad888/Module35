@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xD+XXxvyL8Gl4PegOtWEkw1/0VX7X8Kg29SHOchrBodh5WJmf/TPf9f/vUWp2ycykdADeDBinC0z5J+2K9w58Q==",
+  "dgSpecHash": "rkxgiYTXYLq5dilGt5E6SdGOJOnXGm1t/z/e2cyF0ekOHlfAl7Kco5MkOzm9vNKyDBDUduy9n2Yz0IQpzSWIkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tyrik\\Source\\Repos\\Module35\\Module35\\SocialNetwork\\SocialNetwork.csproj",
+  "projectFilePath": "C:\\Users\\tyrik\\source\\repos\\Module35\\Module35\\SocialNetwork\\SocialNetwork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tyrik\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\tyrik\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
