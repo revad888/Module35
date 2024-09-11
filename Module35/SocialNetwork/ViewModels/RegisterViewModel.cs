@@ -13,6 +13,10 @@ namespace SocialNetwork.ViewModels
         public string LastName { get; set; }
 
         [Required]
+        [Display(Name = "Отчество")]
+        public string MiddleName { get; set; }
+
+        [Required]
         [Display(Name = "Email")]
         public string EmailReg { get; set; }
 
