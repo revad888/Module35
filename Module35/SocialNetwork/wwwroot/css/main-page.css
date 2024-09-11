@@ -1,30 +1,77 @@
-﻿.main {
-    -ms-flex: 30%; /* IE10 */
-    flex: 30%;
-    padding: 20px;
+﻿.container {
+    display: flex; 
+}
+
+.header {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 10px 20px; 
 }
 
 
-.side {
-    -ms-flex: 70%; /* IE10 */
-    flex: 70%;
-    padding: 20px;
-}
 
 .row {
-    display: -ms-flexbox; /* IE10 */
+    display: flex; 
+    width: 100%; 
+}
+
+.side {
+    flex: 1;
+    padding: 20px; 
     display: flex;
-    -ms-flex-wrap: wrap; /* IE10 */
-    flex-wrap: wrap;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
 }
 
-.footer {
-    padding: 20px;
-    text-align: center;
+.main {
+    flex: 1; 
+    padding: 20px; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
 }
 
-.topnav {
-    padding: 20px;
+.main-img {
+    max-width: 100%; 
+    height: auto; 
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
     text-align: center;
-    width: 100%;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+ 
+}
+
+    .btn:hover {
+        background-color: darkblue; 
+    }
+
+
+
+.background-main {
+    background-color: #edeef0;
+}
+
+.background-white {
+    background-color: white;
 }
