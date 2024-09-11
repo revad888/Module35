@@ -23,7 +23,7 @@ namespace SocialNetwork.Controllers
         [HttpGet]
         public IActionResult Register()
         {
-            return View("Register/Register");
+            return View("Shared/Register");
         }
 
         [Route("RegisterPart2")]
