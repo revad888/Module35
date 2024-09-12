@@ -23,7 +23,7 @@ namespace SocialNetwork.Controllers
         [HttpGet]
         public IActionResult Register()
         {
-            return View("Shared/Register");
+            return View("Register");
         }
 
         [Route("RegisterPart2")]
@@ -44,7 +44,7 @@ namespace SocialNetwork.Controllers
                 if (result.Succeeded)
                 {
                     await _signInManager.SignInAsync(user, false);
-                    return RedirectToAction("Index", "Register");
+                    return RedirectToAction("Index", "Home");
                 }
                 else
                 {

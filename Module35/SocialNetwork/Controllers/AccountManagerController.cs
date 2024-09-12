@@ -36,7 +36,7 @@ namespace SocialNetwork.Controllers
 
         [Route("Login")]
         [HttpPost]
-        [ValidateAntiForgeryToken]
+        //[ValidateAntiForgeryToken]
         public async Task<IActionResult> Login(LoginViewModel model)
         {
             if (ModelState.IsValid)
@@ -65,8 +65,7 @@ namespace SocialNetwork.Controllers
         }
 
         [Route("Logout")]
-        [HttpPost]
-        [ValidateAntiForgeryToken]
+        [HttpGet]
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();
