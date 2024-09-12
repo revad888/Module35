@@ -3,56 +3,16 @@
   "WorkspaceRootPath": "D:\\SkillFactory\\Module35\\Module35\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\views\\register\\registerpart2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\views\\register\\registerpart2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\controllers\\accountmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\accountmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\wwwroot\\css\\main-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\wwwroot\\css\\main-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A776A6C-18D4-4790-BC99-017265BFCE85}|SocialNetwork\\SocialNetwork.csproj|d:\\skillfactory\\module35\\module35\\socialnetwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,23 +30,29 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsyncTaskMethodBuilderT.cs",
+              "DocumentMoniker": "C:\\Users\\revad.LAPTOP-GFS75M26\\AppData\\Local\\SourceServer\\e8cf7bede84da75be0246beef05f0ea371f8553f4fe002ca1f072eb55fd8aedd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "ToolTip": "C:\\Users\\revad.LAPTOP-GFS75M26\\AppData\\Local\\SourceServer\\e8cf7bede84da75be0246beef05f0ea371f8553f4fe002ca1f072eb55fd8aedd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAjwB8BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:06:28.476Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountManagerController.cs",
+              "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Controllers\\AccountManagerController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Controllers\\AccountManagerController.cs",
+              "ToolTip": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Controllers\\AccountManagerController.cs",
+              "RelativeToolTip": "SocialNetwork\\Controllers\\AccountManagerController.cs",
+              "ViewState": "AgIAAB8AAACgmZmZmTkzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:45:25.916Z"
             },
             {
               "$type": "Document",
@@ -116,16 +82,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Models\\User.cs",
               "RelativeDocumentMoniker": "SocialNetwork\\Models\\User.cs",
               "ToolTip": "D:\\SkillFactory\\Module35\\Module35\\SocialNetwork\\Models\\User.cs",
               "RelativeToolTip": "SocialNetwork\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T14:52:37.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T14:52:37.048Z"
             },
             {
               "$type": "Document",
@@ -258,7 +223,8 @@
               "RelativeToolTip": "SocialNetwork\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T14:52:18.618Z"
+              "WhenOpened": "2024-09-07T14:52:18.618Z",
+              "EditorCaption": ""
             }
           ]
         }
