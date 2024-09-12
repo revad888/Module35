@@ -31,8 +31,8 @@ namespace SocialNetwork
 
             var assembly = Assembly.GetAssembly(typeof(MappingProfile));
             builder.Services.AddAutoMapper(assembly);
-
-
+            builder.Services.AddRazorComponents();
+            builder.Services.AddRazorPages();
             var app = builder.Build();
 
 
@@ -52,7 +52,7 @@ namespace SocialNetwork
 
             app.UseAuthentication();
             app.UseAuthorization();
-
+            app.MapRazorPages();
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
