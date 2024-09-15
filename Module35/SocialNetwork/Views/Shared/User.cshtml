@@ -1,7 +1,16 @@
-﻿﻿@using Microsoft.AspNetCore.Identity;
-@inject SignInManager<User> SignInManager
-@inject UserManager<User> UserManager;
+﻿@model SocialNetwork.ViewModels.UserViewModel
 
-@model SocialNetwork.ViewModels.MainViewModel
+<h2>Моя страница</h2>
 
-<div>Test</div>
+<div class="user-profile">
+    <div class="profile-img">
+        <img src="@Model.User.Image" alt="User Image" />
+    </div>
+    <div class="profile-info">
+        <h3>@Model.User.GetFullName()</h3>
+        <p><strong>Email:</strong> @Model.User.Email</p>
+        <p><strong>Дата рождения:</strong> @Model.User.BirthDate.ToShortDateString()</p>
+        <p><strong>Статус:</strong> @Model.User.Status</p>
+        <p><strong>О себе:</strong> @Model.User.About</p>
+    </div>
+</div>

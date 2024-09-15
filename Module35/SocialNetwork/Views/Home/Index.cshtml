@@ -11,7 +11,7 @@
 
 @if (SignInManager.IsSignedIn(User))
 {
-    <partial name="User" />
+    <partial name="User" model="Model.UserView" />
 }
 else
 {
